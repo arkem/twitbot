@@ -1,0 +1,3 @@
+A very basic example of how one might use twitter as a channel for command and control of malware. It uses Mike Verdon's Python Twitter Tools for twitter api access.
+
+For more information: http://memeover.arkem.org/2010/01/twitbot-01.html
